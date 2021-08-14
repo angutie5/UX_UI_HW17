@@ -1,0 +1,9 @@
+.Nav {
+    display: flex;
+    background-color: black;
+    padding: 20px;
+}
+.MainNavBar {
+    display: inline-block;
+    vertical-align: top;
+}
